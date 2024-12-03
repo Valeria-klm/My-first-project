@@ -1,0 +1,5 @@
+<!DOCTYPE html>
+<b><label> <input type="Валерія"><b>
+<i> <label> <input type="мій емаіл"><i>
+<label> <input type="пароль">
+<form> <input type="submit"><form>
